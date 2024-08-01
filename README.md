@@ -14,11 +14,10 @@ Super Profile Editor is a Java-based graphical user interface (GUI) application 
 
 ## 📸 Screenshots
 
-***COPY PASTE TO MAKE IT PUBLIC!!!***
-<img src="https://github.com/user-attachments/assets/c9e72be8-8925-48f6-bf41-ef65004fa81b" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/a7730f3f-9504-4d4e-9f87-ab578f6e0bcd" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/86851d87-f58e-4116-86e1-3842e03202ba" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/72b15a51-e517-48b2-86cd-e4f5f82b675d" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/f6a0ef61-5f92-469a-8336-009848d335b5" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/57a97666-731e-4782-a590-4e0cedea5892" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/43cbd1af-d7d2-4bee-a773-dfd018bab506" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/776929ad-feda-4395-8fe8-5f9353d4889d" width="400" alt="image">
 
 ## ⛳ Getting Started
 
