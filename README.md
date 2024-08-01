@@ -30,7 +30,7 @@ Super Profile Editor is a Java-based graphical user interface (GUI) application 
 ### Installation
 
 1. **Download the Executable File**
-   - Visit the [Releases section](https://github.com/elfin-college/javap2-act-SuperProfileEditor/releases) of this repository.
+   - Visit the [Releases section](https://github.com/elfinix/javap2-actv-SuperProfileEditor/releases) of this repository.
    - Download the latest `.exe` file from the list of assets. The file will be named something like `SuperProfileEditor.exe`.
 
 2. **Navigate to the Download Folder**
